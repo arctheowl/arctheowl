@@ -1,10 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arctheowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 🔭 I’m currently working on 
-An Email Reporting tool [Here](https://github.com/arctheowl/EmailReports)
+LoveIsland Tracker [Here](loveisland.herokuapp.com/)
 
 📫  You can reach me at:
 lidevlin95@gmail.com
