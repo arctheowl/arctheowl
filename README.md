@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20px" width="20px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arctheowl)](https://github.com/anuraghazra/github-readme-stats)
 -->
