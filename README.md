@@ -4,8 +4,7 @@
 -->
 
 🔭 I’m currently working on 
-LoveIsland Tracker [Here](#https://loveisland.herokuapp.com/){:target="_blank"}
-
+LoveIsland Tracker [Here](https://loveisland.herokuapp.com/)
 📫  You can reach me at:
 lidevlin95@gmail.com
 <!--
