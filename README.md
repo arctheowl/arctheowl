@@ -7,7 +7,7 @@
 
 LoveIsland Tracker [Here](https://loveisland.herokuapp.com/)
 
-GoDeck [A simple deck of card implemented in Go](https://github.com/arctheowl/GoDeck)
+GoDeck:A simple deck of card implemented in Go [Here](https://github.com/arctheowl/GoDeck)
 
 📫  You can reach me at:
 lidevlin95@gmail.com
