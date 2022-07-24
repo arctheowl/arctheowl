@@ -6,8 +6,11 @@
 🔭 Things I've recently Built
 
 Bookclub Website [Here](https://fleetbookclub.com/)
+
 LoveIsland Tracker [Here](https://loveisland.herokuapp.com/)
-GoDeck:A simple deck of card implemented in Go [Here](https://github.com/arctheowl/GoDeck)
+
+GoDeck: A simple deck of card paired with an anlyser implemented in Go 
+[Here](https://github.com/arctheowl/GoDeck)
 
 🌱 Things I'm currently building:
 PokerServer in Go.
