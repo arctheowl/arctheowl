@@ -7,7 +7,7 @@
 
 Bookclub Website [Here](https://fleetbookclub.com/)
 
-LoveIsland Tracker [Here](https://loveisland.herokuapp.com/)
+LoveIsland Tracker [Here](https://love-island.vercel.app)
 
 GoDeck: A simple deck of card paired with an anlyser implemented in Go 
 [Here](https://github.com/arctheowl/GoDeck)
